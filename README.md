@@ -1,5 +1,3 @@
-# Bio.md
-
 ## Tagline
 Building tools for tomorrow. Learning by doing. Reinventing for the future.
 
