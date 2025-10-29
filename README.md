@@ -1,5 +1,5 @@
 ## Tagline
-Building tools for tomorrow. Learning by doing. Reinventing for the future.
+I'm a vibecoder who believes in building tools for tomorrow, not just today. I learn by doing—every project teaches me something new. I'm constantly reinventing myself for the future, treating AI as an art form that gets better with practice and close observation.
 
 ---
 
